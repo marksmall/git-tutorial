@@ -9,6 +9,3 @@ function howto {
 }
 
 howto
-
-echo "Script Completed"
-
