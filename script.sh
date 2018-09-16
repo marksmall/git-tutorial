@@ -10,5 +10,17 @@ function howto {
 
 howto
 
-echo "Script Completed"
+function why {
+  echo "This is the reason for this script"
+}
+
+why
+
+echo "The new script completion message"
+
+function error {
+  echo "This is an error message"
+}
+
+error
 
