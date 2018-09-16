@@ -2,4 +2,4 @@
 
 ./script.sh
 
-echo "Test Complete"
+echo "Test Script Complete"
